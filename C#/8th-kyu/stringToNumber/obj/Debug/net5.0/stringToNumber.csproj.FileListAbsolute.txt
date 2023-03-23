@@ -1,0 +1,16 @@
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\bin\Debug\net5.0\stringToNumber.exe
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\bin\Debug\net5.0\stringToNumber.deps.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\bin\Debug\net5.0\stringToNumber.runtimeconfig.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\bin\Debug\net5.0\stringToNumber.runtimeconfig.dev.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\bin\Debug\net5.0\stringToNumber.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\bin\Debug\net5.0\ref\stringToNumber.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\bin\Debug\net5.0\stringToNumber.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.AssemblyInfo.cs
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\ref\stringToNumber.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\stringToNumber\obj\Debug\net5.0\stringToNumber.genruntimeconfig.cache
