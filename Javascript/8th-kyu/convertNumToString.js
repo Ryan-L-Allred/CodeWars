@@ -12,4 +12,3 @@ function numberToString(num) {
   return num.toString();
 }
 
-console.log(numberToString(2345))
