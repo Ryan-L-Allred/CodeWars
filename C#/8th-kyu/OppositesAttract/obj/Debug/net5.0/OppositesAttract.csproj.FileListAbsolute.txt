@@ -1,0 +1,16 @@
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\bin\Debug\net5.0\OppositesAttract.exe
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\bin\Debug\net5.0\OppositesAttract.deps.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\bin\Debug\net5.0\OppositesAttract.runtimeconfig.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\bin\Debug\net5.0\OppositesAttract.runtimeconfig.dev.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\bin\Debug\net5.0\OppositesAttract.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\bin\Debug\net5.0\ref\OppositesAttract.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\bin\Debug\net5.0\OppositesAttract.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.AssemblyInfo.cs
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\ref\OppositesAttract.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\OppositesAttract\obj\Debug\net5.0\OppositesAttract.genruntimeconfig.cache
