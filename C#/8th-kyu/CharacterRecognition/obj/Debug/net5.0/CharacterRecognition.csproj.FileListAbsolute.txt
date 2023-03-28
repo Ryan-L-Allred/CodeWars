@@ -1,0 +1,16 @@
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\bin\Debug\net5.0\CharacterRecognition.exe
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\bin\Debug\net5.0\CharacterRecognition.deps.json
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\bin\Debug\net5.0\CharacterRecognition.runtimeconfig.json
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\bin\Debug\net5.0\CharacterRecognition.runtimeconfig.dev.json
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\bin\Debug\net5.0\CharacterRecognition.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\bin\Debug\net5.0\ref\CharacterRecognition.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\bin\Debug\net5.0\CharacterRecognition.pdb
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.AssemblyInfo.cs
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\ref\CharacterRecognition.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.pdb
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\CharacterRecognition\obj\Debug\net5.0\CharacterRecognition.genruntimeconfig.cache
