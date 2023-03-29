@@ -1,0 +1,16 @@
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\bin\Debug\net5.0\TwiceAsOld.exe
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\bin\Debug\net5.0\TwiceAsOld.deps.json
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\bin\Debug\net5.0\TwiceAsOld.runtimeconfig.json
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\bin\Debug\net5.0\TwiceAsOld.runtimeconfig.dev.json
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\bin\Debug\net5.0\TwiceAsOld.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\bin\Debug\net5.0\ref\TwiceAsOld.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\bin\Debug\net5.0\TwiceAsOld.pdb
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.AssemblyInfo.cs
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\ref\TwiceAsOld.dll
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.pdb
+C:\Users\ryana\workspace\codewars\C#\8th-kyu\TwiceAsOld\obj\Debug\net5.0\TwiceAsOld.genruntimeconfig.cache
