@@ -9,4 +9,5 @@ const powersOfTwo = (n) => {
    return array
 }
 
-console.log(powersOfTwo(4))
+console.log(powersOfTwo(5))//expected output: [1, 2, 4, 8, 16, 32]
+console.log(2 ** 5)
