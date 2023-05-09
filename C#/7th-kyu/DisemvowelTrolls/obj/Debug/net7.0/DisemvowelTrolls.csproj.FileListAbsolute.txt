@@ -1,0 +1,15 @@
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\bin\Debug\net7.0\DisemvowelTrolls.exe
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\bin\Debug\net7.0\DisemvowelTrolls.deps.json
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\bin\Debug\net7.0\DisemvowelTrolls.runtimeconfig.json
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\bin\Debug\net7.0\DisemvowelTrolls.dll
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\bin\Debug\net7.0\DisemvowelTrolls.pdb
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.AssemblyInfo.cs
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.dll
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\refint\DisemvowelTrolls.dll
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.pdb
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\DisemvowelTrolls.genruntimeconfig.cache
+C:\Users\ryana\workspace\CodeWars\C#\7th-kyu\DisemvowelTrolls\obj\Debug\net7.0\ref\DisemvowelTrolls.dll
