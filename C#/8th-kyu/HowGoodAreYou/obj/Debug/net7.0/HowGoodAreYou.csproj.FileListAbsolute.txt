@@ -1,0 +1,15 @@
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\bin\Debug\net7.0\HowGoodAreYou.exe
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\bin\Debug\net7.0\HowGoodAreYou.deps.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\bin\Debug\net7.0\HowGoodAreYou.runtimeconfig.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\bin\Debug\net7.0\HowGoodAreYou.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\bin\Debug\net7.0\HowGoodAreYou.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.AssemblyInfo.cs
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\refint\HowGoodAreYou.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\HowGoodAreYou.genruntimeconfig.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\HowGoodAreYou\obj\Debug\net7.0\ref\HowGoodAreYou.dll
