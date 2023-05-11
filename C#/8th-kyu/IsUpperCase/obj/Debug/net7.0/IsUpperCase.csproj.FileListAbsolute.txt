@@ -1,0 +1,15 @@
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\bin\Debug\net7.0\IsUpperCase.exe
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\bin\Debug\net7.0\IsUpperCase.deps.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\bin\Debug\net7.0\IsUpperCase.runtimeconfig.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\bin\Debug\net7.0\IsUpperCase.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\bin\Debug\net7.0\IsUpperCase.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.AssemblyInfo.cs
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\refint\IsUpperCase.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\IsUpperCase.genruntimeconfig.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\IsUpperCase\obj\Debug\net7.0\ref\IsUpperCase.dll
