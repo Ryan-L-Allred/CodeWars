@@ -1,0 +1,16 @@
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\bin\Debug\net5.0\Plural.exe
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\bin\Debug\net5.0\Plural.deps.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\bin\Debug\net5.0\Plural.runtimeconfig.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\bin\Debug\net5.0\Plural.runtimeconfig.dev.json
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\bin\Debug\net5.0\Plural.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\bin\Debug\net5.0\ref\Plural.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\bin\Debug\net5.0\Plural.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.csproj.AssemblyReference.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.AssemblyInfoInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.AssemblyInfo.cs
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.csproj.CoreCompileInputs.cache
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\ref\Plural.dll
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.pdb
+C:\Users\ryana\workspace\CodeWars\C#\8th-kyu\Plural\obj\Debug\net5.0\Plural.genruntimeconfig.cache
